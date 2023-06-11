@@ -1,0 +1,97 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.video-title {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.video-stats {
+  font-family: Arial;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.video-author {
+  font-family: Arial;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.video-description {
+  font-family: Arial;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  width: 270px;
+  margin-top: 0;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+.apple-text {
+  margin-bottom: 50px;
+  font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+}
+.shop-now:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.five-a {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 100px;
+}
+.five-b {
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 100px;
+  line-height: 27px;
+}
+.sale-end {
+  font-weight: normal;
+  font-size: 14px;
+  color: red;
+  font-style: italic;
+}
+.macbook {
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  line-height: 23px;
+}
+.new {
+  color: orange;
+  font-size: 10px;
+}
+.description {
+  font-size: 25px;
+}
+.price {
+  font-weight: normal;
+  font-size: 10px;
+}
+.macbook_buy_button {
+  background-color: rgb(48, 98, 168);
+  border: none;
+  display: block;
+  margin: 0 auto;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+}
